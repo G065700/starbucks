@@ -1,12 +1,12 @@
 # STARBUCKS
 
 ## netlify를 이용한 지속적 배포
-<a href="" title="완성 페이지로 이동" target="_blank">완성 페이지로 이동</a> 
+<a href="https://gifted-panini-012667.netlify.app/" title="완성 페이지로 이동" target="_blank">완성 페이지로 이동</a> 
 <br/><br/> 
 
 ## 프로젝트 개요
 ```plaintext
-html, css, JS와 Open Graph 및 다양한 모듈 사용 방법 연습 목적의, starbucks MAIN & LOGIN 화면을 만드는 클론 프로젝트 
+html, css, JS와 Open Graph & Twitter Card 및 다양한 모듈 사용 방법 연습 목적의, starbucks MAIN & LOGIN 화면을 만드는 클론 프로젝트 
 ```
 
 ## 프로젝트 구성
